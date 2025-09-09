@@ -1,8 +1,6 @@
 # CQU-Final-Exam
 
-**重庆大学 计算机 期末考试总结and个人的一些资料**
+Chongqing University – Computer Science Final Exam Summaries and Personal Study Materials
 
-觉得不错给个star吧！😘
 
-目前包含：大二下和大三上
 
